@@ -1,0 +1,21 @@
+2026-01-05 22:09:10 - arithematic_app - DEBUG - Adding 10 and 5
+2026-01-05 22:09:10 - arithematic_app - DEBUG - Subtracting 5 from 10
+2026-01-05 22:09:10 - arithematic_app - DEBUG - Multiplying 10 and 5
+2026-01-05 22:09:10 - arithematic_app - DEBUG - Dividing 10 by 2
+2026-01-05 22:09:33 - arithematic_app - DEBUG - Adding 10 and 5
+2026-01-05 22:09:33 - arithematic_app - DEBUG - Subtracting 5 from 10
+2026-01-05 22:09:33 - arithematic_app - DEBUG - Multiplying 10 and 5
+2026-01-05 22:09:33 - arithematic_app - DEBUG - Dividing 10 by 0
+2026-01-05 22:09:33 - arithematic_app - ERROR - Division by zero error
+Traceback (most recent call last):
+  File "/media/thinkpad/NVME/python_practice/kn_oops/21.py", line 30, in divide
+    result=a/b
+           ~^~
+ZeroDivisionError: division by zero
+2026-01-05 22:09:33 - arithematic_app - DEBUG - Dividing 10 by 2
+2026-01-05 22:11:05 - arithematic_app - DEBUG - Adding 10 and 5
+2026-01-05 22:11:05 - arithematic_app - DEBUG - Subtracting 5 from 10
+2026-01-05 22:11:05 - arithematic_app - DEBUG - Multiplying 10 and 5
+2026-01-05 22:11:05 - arithematic_app - DEBUG - Dividing 10 by 0
+2026-01-05 22:11:05 - arithematic_app - ERROR - Division by zero error
+2026-01-05 22:11:05 - arithematic_app - DEBUG - Dividing 10 by 2
